@@ -42,9 +42,9 @@ test.. test... test..... test?..... test!....
 
 ## Emphasis
 
-**This is bold text**
+**Este es mi texto en negritas**
 
-__This is bold text__
+__Este texto en negritas__
 
 *This is italic text*
 
