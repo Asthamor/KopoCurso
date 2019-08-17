@@ -61,19 +61,19 @@ _This is italic text_
 > > > ...or with spaces between arrows.
 
 
-## Lists
+## Listas
 
-Unordered
+Desordenadas
 
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
++ Crea una lista iniciando la línea con `+`, `-`, o `*`
++ Las sublistas están hechas identando 2 espacios:
   - Marker character change forces new list start:
     * Ac tristique libero volutpat at
     + Facilisis in pretium nisl aliquet
     - Nulla volutpat aliquam velit
-+ Very easy!
++ Muy fácil!
 
-Ordered
+Ordenadas
 
 1. Lorem ipsum dolor sit amet
 2. Consectetur adipiscing elit
