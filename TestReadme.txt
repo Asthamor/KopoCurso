@@ -42,9 +42,9 @@ test.. test... test..... test?..... test!....
 
 ## Emphasis
 
-**This is bold text**
+**Este es mi texto en negritas**
 
-__This is bold text__
+__Este texto en negritas__
 
 *This is italic text*
 
@@ -148,7 +148,7 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
-Like links, Images also have a footnote style syntax
+Like links, Images also have a footnote style syntax / Como los links, las imagenes tambien tienen estilo de sintaxis de pie de pagina 
 
 ![Alt text][id]
 
@@ -190,19 +190,19 @@ see [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
-Footnote 1 link[^first].
+Footnote 1 link[^primero].
 
-Footnote 2 link[^second].
+Footnote 2 link[^segundo].
 
 Inline footnote^[Text of inline footnote] definition.
 
-Duplicated footnote reference[^second].
+Duplicated footnote reference[^segundo].
 
 [^first]: Footnote **can have markup**
 
     and multiple paragraphs.
 
-[^second]: Footnote text.
+[^segundo]: Footnote text.
 
 
 ### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
@@ -222,12 +222,12 @@ Term 2 with *inline markup*
 
 _Compact style:_
 
-Term 1
-  ~ Definition 1
+Termino 1
+  ~ DEFINICIÓN 1
 
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
+Termino 2
+  ~ DEFINICIÓN 2a
+  ~ DEFINICIÓN 2b
 
 
 ### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
