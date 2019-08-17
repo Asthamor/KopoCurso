@@ -244,3 +244,6 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ::: warning
 *here be dragons*
 :::
+La verdad es que me está resultando un poco dificil entender esto del GitKraken, espero que con el constante uso
+de esta plataforma, pueda yo tener un mejor provecho de ésta herramienta, sin embargo a lo que veo, pues si
+es posible tener un monitore de la colaboración de todos los desarrolladores.
